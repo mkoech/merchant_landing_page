@@ -1,6 +1,6 @@
 # flutter_merchant_store_app
 
-A new Flutter application to illustrate merechants landing page
+A new Flutter application to illustrate a merchants landing page
 
 ## Getting Started
 
